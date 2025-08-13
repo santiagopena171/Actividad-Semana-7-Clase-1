@@ -15,4 +15,6 @@ Los menús utilizados son dos. El principal es uno horizontal y bastante simple 
 En la página principal, las imágenes de los productos se ubican de a montones, en una cuadrilla. Sus descripciones saltan cuando pasamos por encima de la imagen del producto (al hacer hover), en un texto que parece un poco chico. A su vez, algunos productos muestran un video al posicionar el mouse arriba. El precio aparece debajo de la imagen, y se puede añadir el producto al carrito con el botón que aparece a la derecha (del precio).
 
 ## Comentarios: 
-El diseño no está tan mal, pero tiene algunas trabas. La sección de ofertas muestra productos, pero al querer ir a ellos te lleva 
+El diseño no está tan mal, pero tiene algunas trabas. La sección de ofertas muestra productos, pero al querer ir a dicho producto te lleva a otra página con otros productos. MAL. También, al entrar por primera vez a la página y cada tanto mientras navegábamos, saltaban captchas que entorpecen enormemente el proceso de realizar una compra. Tenemos aquí la prueba:
+
+![TemuCaptcha](temu.png)
