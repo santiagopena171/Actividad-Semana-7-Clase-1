@@ -18,3 +18,5 @@ En la página principal, las imágenes de los productos se ubican de a montones,
 El diseño no está tan mal, pero tiene algunas trabas. La sección de ofertas muestra productos, pero al querer ir a dicho producto te lleva a otra página con otros productos. MAL. También, al entrar por primera vez a la página y cada tanto mientras navegábamos, saltaban captchas que entorpecen enormemente el proceso de realizar una compra. Tenemos aquí la prueba:
 
 ![TemuCaptcha](temu.png)
+
+Se perdona porque son captchas de animales tiernos, de más está decir.
